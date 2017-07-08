@@ -45,4 +45,4 @@ Two stages:
 	
 	Item Based collaborative filtering with Cosine Similarity Index and Weighted average of it yielded 0.8875 RMSE.
 			
-			The above conclusion is based on results of top 10 most popular movies and Top 500 users.
+			The above conclusion is based on results for top 10 most popular movies and Top 500 users.
